@@ -17,6 +17,7 @@ class Hero {
   });
 
   //Forma de convertir la instancia para imprimir los valores
+  @override
   String toString(){
     return '$name - $power';
   }
