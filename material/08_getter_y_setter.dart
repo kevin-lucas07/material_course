@@ -1,5 +1,7 @@
 //getter y setter permiten obtener y modificiar valores de variables privadas dentro de una clase.
-//Usando aserciones, estas permiten validar las condiciones asignadas en el codigo
+
+//Usando aserciones, estas permiten validar las condiciones asignadas en el codigo y depurar solo en modo
+//de desarrollo
 
 void main() {
   final mySquare = Square(side: -10);
